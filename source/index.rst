@@ -9,6 +9,7 @@
 .. toctree::
    :maxdepth: 2
    :caption: 帮助文档:
+   
    erp_intro
    luso_erp
    home
