@@ -3,13 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MING's BLOG's documentation!
+欢迎使用路索ERP管理系统!
 =======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
-   how_to_be_a_rich_man
-   help_home
+   :caption: 帮助文档:
+   erp_intro
+   luso_erp
+   home
+   purchase
+   prescription
+   produce
+   product
+   repository
+   cusotmer
+   sale
+
+
+
+
+
+
+
 

@@ -43,8 +43,8 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'MING\'s BLOG' 
-copyright = u'2018, 小明同学'
+project = u'帮助系统' 
+copyright = u'2020, 路索化工'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -88,8 +88,8 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'python3-cookbook.tex', u'《Python编程时光》',
-   u'小明同学', 'howto'),
+  ('index', 'python3-cookbook.tex', u'《帮助系统》',
+   u'路索化工', 'howto'),
 ]
 
 # -- Options for manual page output ---------------------------------------
@@ -97,8 +97,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'python3-cookbook', u'《Python编程时光》',
-     [u'小明同学'], 1)
+    ('index', 'python3-cookbook', u'《帮助系统》',
+     [u'路索化工'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -111,8 +111,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Python-Time', u'《Python编程时光》',
-   u'小明同学', 'Python-Time', '《Python编程时光》',
+  ('index', 'Python-Time', u'《帮助系统》',
+   u'路索化工', 'Python-Time', '《帮助系统》',
    'Miscellaneous'),
 ]
 
