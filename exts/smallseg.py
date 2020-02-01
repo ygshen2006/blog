@@ -19,7 +19,7 @@ class SEG(object):
         with open(os.path.join(curpath, "main.dic")) as in_file:
             self.set([x.rstrip() for x in in_file])
         with open(os.path.join(curpath,"suffix.dic")) as in_file:
-            self.specialwords= set([x.rstrip().decode('utf-8') for x in in_file])
+            self.specialwords= set([x.rstrip() for x in in_file])
         print('dict ok.', file=sys.stderr)
     #set dictionary(a list)
     def set(self,keywords):
@@ -27,7 +27,7 @@ class SEG(object):
         q = {}
         k = ''
         for word in keywords:
-            word = (chr(11)+word).decode('utf-8')
+            word = chr(11)+word
             if len(word)>5:
                 continue
             p = self.d
@@ -72,7 +72,7 @@ class SEG(object):
     def cut(self,text):
         """
         """
-        text = text.decode('utf-8','ignore')
+        text = text
         p = self.d
         ln = len(text)
         i = ln 
