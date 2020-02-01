@@ -14,12 +14,12 @@
    luso_erp
    login
    home
+   cusotmer
    purchase
+   repository
    prescription
    produce
    product
-   repository
-   cusotmer
    sale
 
 
