@@ -142,10 +142,4 @@ class SEG(object):
                 mem = None
                 mem2 = None
         #print(mem)
-        if mem!=None:
-            i,j,z = mem
-            recognised.extend(self._pro_unreg(text[i:z]))
-            recognised.append(text[i-j:i])        
-        else:
-            recognised.extend(self._pro_unreg(text[i-j:z]))
         return recognised
