@@ -83,7 +83,7 @@ class SEG(object):
         mem = None
         mem2 = None
         while i-j>0:
-            t = text[i-j-1].lower()
+            t = text[i-j-1]
             #print(i,j,t,mem)
             if not (t in p):
                 if (mem!=None) or (mem2!=None):
