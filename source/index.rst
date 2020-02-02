@@ -14,9 +14,9 @@
    luso_erp
    login
    home
-   cusotmer
    purchase
    repository
+   customer
    prescription
    produce
    product
