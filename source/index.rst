@@ -31,10 +31,7 @@ Welcome to Luso blog!
           <li><a href="sale.html">销售管理</a></li>   
           </ul>
         </td>
-      </tr>
-
-      <tr>
-       <td>
+         <td>
           <div style="display:inline-block;">
             <img style="width:50px;" src="_static/image/ereader.svg">
           </div>
@@ -50,6 +47,8 @@ Welcome to Luso blog!
           </ul>
         </td>
       </tr>
+
+
 
       <tr>
        <td>
