@@ -43,7 +43,7 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'帮助系统' 
+project = u'ygshen‘s blog' 
 copyright = u'2020, 路索化工'
 
 # The version info for the project you're documenting, acts as replacement for
