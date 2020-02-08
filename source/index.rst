@@ -12,7 +12,7 @@ Welcome to Luso blog!
       <tr>
         <td>
           <div style="display:inline-block;">
-            <img style="width:50px;" src="_static/image/logo.gif">
+            <img style="width:100px;height:50px" src="_static/image/logo.gif">
           </div>
           <div style="display:inline-block;">
             <h2 style="width:auto;">LUSO ERP System</h2>
