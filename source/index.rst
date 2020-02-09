@@ -20,7 +20,7 @@ Welcome to Luso blog!
           <ul>
           <li><a href="erp/erp_intro.html">什么是ERP?</a></li>
           <li><a href="erp/luso_erp.html">路索ERP</a></li>
-          <li><a href="erp/ogin.html">注册登录</a></li>
+          <li><a href="erp/login.html">注册登录</a></li>
           <li><a href="erp/home.html">首页</a></li>
           <li><a href="erp/purchase.html">采购</a></li>
           <li><a href="erp/repository.html">库存</a></li>
@@ -47,9 +47,6 @@ Welcome to Luso blog!
           </ul>
         </td>
       </tr>
-
-
-
       <tr>
        <td>
           <div style="display:inline-block;">
