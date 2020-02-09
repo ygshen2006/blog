@@ -67,11 +67,6 @@ Welcome to Luso blog!
       </table>
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   erp/index
 
 
 
