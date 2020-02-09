@@ -65,6 +65,20 @@ Welcome to Luso blog!
 
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 帮助文档:
 
+   erp/erp_intro
+   erp/luso_erp
+   erp/login
+   erp/home
+   erp/purchase
+   erp/repository
+   erp/customer
+   erp/prescription
+   erp/produce
+   erp/product
+   erp/sale
 
 
