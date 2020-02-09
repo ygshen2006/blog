@@ -15,20 +15,20 @@ Welcome to Luso blog!
             <img style="width:100px;height:50px" src="_static/image/logo.gif">
           </div>
           <div style="display:inline-block;">
-            <h2 style="width:auto;">LUSO ERP System</h2>
+            <h2 style="width:auto;"><a href="erp/index.html">LUSO ERP System</a></h2>
           </div>
           <ul>
-          <li><a href="erp_intro.html">什么是ERP?</a></li>
-          <li><a href="luso_erp.html">路索ERP</a></li>
-          <li><a href="login.html">注册登录</a></li>
-          <li><a href="home.html">首页</a></li>
-          <li><a href="purchase.html">采购</a></li>
-          <li><a href="repository.html">库存</a></li>
-          <li><a href="customer.html">客户管理</a></li>
-          <li><a href="prescription.html">配方研发</a></li>
-          <li><a href="produce.html">生产</a></li>
-          <li><a href="product.html">产品管理</a></li>
-          <li><a href="sale.html">销售管理</a></li>   
+          <li><a href="erp/erp_intro.html">什么是ERP?</a></li>
+          <li><a href="erp/luso_erp.html">路索ERP</a></li>
+          <li><a href="erp/ogin.html">注册登录</a></li>
+          <li><a href="erp/home.html">首页</a></li>
+          <li><a href="erp/purchase.html">采购</a></li>
+          <li><a href="erp/repository.html">库存</a></li>
+          <li><a href="erp/customer.html">客户管理</a></li>
+          <li><a href="erp/prescription.html">配方研发</a></li>
+          <li><a href="erp/produce.html">生产</a></li>
+          <li><a href="erp/product.html">产品管理</a></li>
+          <li><a href="erp/sale.html">销售管理</a></li>   
           </ul>
         </td>
          <td>
@@ -59,8 +59,8 @@ Welcome to Luso blog!
             <h2 style="width:auto;">读书</h2>
           </div>
           <ul>
-          <li><a href="erp_intro.html">日记</a></li>
-          <li><a href="erp_intro.html">女儿教育</a></li>
+          <li><a href="erp/erp_intro.html">日记</a></li>
+          <li><a href="erp/erp_intro.html">女儿教育</a></li>
           </ul>
         </td>
       </tr>
