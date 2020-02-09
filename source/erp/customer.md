@@ -5,7 +5,7 @@
 
 ## 2 客户查询
 http://www.lusochem.com/portal/supliers
-![客户查询](../_static/image/13.png)
+![客户查询](_static/image/13.png)
 1. 客户编号： 根据企业对客户的编号查询
 2. 名称： 根据客户公司名称查询（支持模糊查询）
 3. 电话： 根据客户公司电话查询（支持模糊查询）
